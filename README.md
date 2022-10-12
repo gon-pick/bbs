@@ -2,7 +2,7 @@
 ---
 
 ### 1. 개요
-  - React ,SpringBoot ,Mysql 활용한 로그인 및 게시판
+  - React ,SpringBoot ,MyBatis 활용한 로그인 및 게시판
 
 ### 2. 기능
    - 게시판 : CRUD, 페이징, 리뷰, 답글, 조회수
